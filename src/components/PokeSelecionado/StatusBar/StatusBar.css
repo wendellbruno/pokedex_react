@@ -1,0 +1,23 @@
+.container_status{
+   height: 30x;
+   display: flex;
+}
+
+.barra{
+   border-radius: 5px;
+   min-width: 20px;
+   color: black;
+   font-weight: 600;
+   display: flex;
+   justify-content: center;
+}
+
+
+/* Colors Barra */
+
+.hp{ background-color: #EB4971;}
+.attack{ background-color : #B5C534;}
+.defense{ background-color : #91D9CD;}
+.special-attack{ background-color: #F4934D;}
+.special-defense{ background-color : #8656FA;}
+.speed{ background-color : #F9DF78;}

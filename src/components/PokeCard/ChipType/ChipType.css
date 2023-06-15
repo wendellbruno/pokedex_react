@@ -1,0 +1,16 @@
+.chip{
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 2px 0px 4px white;
+    gap: 2px;
+}
+
+.chip img{
+    object-fit: contain;
+    width: 20px;
+    height: 20px;
+}
