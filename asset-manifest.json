@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokedex_react/static/css/main.3fd5c63a.css",
+    "main.js": "/pokedex_react/static/js/main.f86bf863.js",
+    "static/media/UnderstatedFlashyHumpbackwhale-max-1mb.gif": "/pokedex_react/static/media/UnderstatedFlashyHumpbackwhale-max-1mb.054fce21d9ddf9e8e083.gif",
+    "index.html": "/pokedex_react/index.html",
+    "main.3fd5c63a.css.map": "/pokedex_react/static/css/main.3fd5c63a.css.map",
+    "main.f86bf863.js.map": "/pokedex_react/static/js/main.f86bf863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd5c63a.css",
+    "static/js/main.f86bf863.js"
+  ]
+}
