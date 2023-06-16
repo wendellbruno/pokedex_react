@@ -59,6 +59,7 @@ main{
     display: flex;
     height: 80%;
     width: 100%;
+    min-width: 530px;
     align-items: center;
     gap: 15px;
 }
@@ -116,11 +117,12 @@ main{
 
 .detalhes_pokemon{
     display: flex;
-    padding: 25px;
     justify-content: center;
     width: 40%;
     height: 93%;
 }
+
+
 
 .types{
     display: flex;
